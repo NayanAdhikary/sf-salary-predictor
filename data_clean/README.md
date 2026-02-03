@@ -9,3 +9,7 @@ Cleaned SF Salaries dataset from [Data Cleaning Project](https://github.com/Naya
 
 ## Features Used:
 
+Experience (2024 - Year): 45% feature importance
+JobGroup (Police/Fire/Other): 35% importance
+
+undefined
